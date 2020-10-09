@@ -10,7 +10,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -178,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602241275568</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First module">
+      <created>1602241626968</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602241626968</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -190,30 +196,30 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="488" y="93" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1602240708606" />
-    <state x="210" y="0" key="CommitChangelistDialog2" timestamp="1602241273262">
+    <state x="210" y="0" key="CommitChangelistDialog2" timestamp="1602241624966">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="210" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1602241273262" />
-    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1602241350243">
+    <state x="210" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1602241624966" />
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1602241669822">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1602241350243" />
-    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1602241350243">
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1602241669822" />
+    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1602241669822">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1602241350243" />
-    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1602241350243">
+    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1602241669822" />
+    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1602241669822">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1602241350243" />
-    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1602241350243">
+    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1602241669822" />
+    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1602241669822">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1602241350243" />
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1602241283349">
+    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1602241669822" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1602241629604">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1602241283349" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1602241629604" />
     <state width="379" height="87" key="javadoc.popup.new" timestamp="1602240960703">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
